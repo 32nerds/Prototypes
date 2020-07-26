@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5bbdfd73-53a1-46f6-9dd2-35076a3c88e3}</ProjectGuid>
+    <ProjectGuid>{d53506fd-cfb5-4701-8a4d-8b8e8e184e89}</ProjectGuid>
     <Keyword>Linux</Keyword>
-    <RootNamespace>PipboyMobile</RootNamespace>
+    <RootNamespace>PhoneApp</RootNamespace>
     <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
     <ApplicationType>Linux</ApplicationType>
     <ApplicationTypeRevision>1.0</ApplicationTypeRevision>
